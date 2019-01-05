@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a7224ea4-b8bb-4116-b6b3-33a1c5f25604" name="flagger-landing" url="http://13.209.124.62">
+        <fileTransfer host="13.209.124.62" port="22" privateKey="C:\EEEL\env\eeeldevpem.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
